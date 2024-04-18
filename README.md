@@ -1,7 +1,7 @@
 # venator-11-blackarch
 My compilation of Venator OSINT Browser for Blackarch distro using .appimage LibreWolf Browser and  settings of Venator 11th version.
 How to install:
-1. Unpack the archive.
+1. Download and unpack the 2 archives (https://disk.yandex.com/d/gV2tFP0n9spzJg https://disk.yandex.com/d/8Tenm74oRo1Gbg).
 2. Run the LibreWolf.x86_64.AppImage - file for the first time.
 3. Launch the browser and go to the settings menu. To do this, click on the tab in the upper right corner.
 4. Now open the Libre Wolf item. After that, scroll to the bottom and open the directory where the browser profiles are stored.
